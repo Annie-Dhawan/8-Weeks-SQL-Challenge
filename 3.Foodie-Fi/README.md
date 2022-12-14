@@ -44,14 +44,12 @@ When customers churn — they will keep their access until the end of their curr
 
 ### A. Customer Journey
 
-View my solution [here](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%233%20-%20Foodie-Fi/A.%20Customer%20Journey.md).
-  
+
 Based off the 8 sample customers provided in the sample from the subscriptions table, write a brief description about each customer’s onboarding journey.
 
 ### B. Data Analysis Questions
 
-View my solution [here](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%233%20-%20Foodie-Fi/B.%20Data%20Analysis%20Questions.md).
-  
+
 1. How many customers has Foodie-Fi ever had?
 2. What is the monthly distribution of trial plan start_date values for our dataset - use the start of the month as the group by value
 3. What plan start_date values occur after the year 2020 for our dataset? Show the breakdown by count of events for each plan_name
